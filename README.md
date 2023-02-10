@@ -1,6 +1,5 @@
 ## 👋 Olá! Bem vindo ao meu perfil GitHub.
-### Me chamo Cauã, tenho 17 anos e estou começando aprender a programar.
-#### Por enquanto sei programar em: 
+### Me chamo Cauã, e estou aprendendo sobre o back-end e um pouco do front-end, em busca de ser um fullstack futuramente.
 
 <div style="display: inline_block"><br>
   <img align="center" widht="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
