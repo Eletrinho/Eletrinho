@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cauã&textBg=false&section=header&animation=fadeIn)
+[[header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cauã&textBg=false&section=header&animation=fadeIn)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cau%C3%A3&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-end%20%7C%20Rumo%20ao%20Fullstack&descAlignY=55&descSize=18)
 
 Desenvolvedor focado em Back-end (Python/Django/Java) em transição para Fullstack. 
 Atualmente cursando Análise e Desenvolvimento de Sistemas (3/5).
