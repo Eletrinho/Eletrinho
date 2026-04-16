@@ -16,7 +16,8 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas (3/5).
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 🚀 Projetos
-- [**DevStore**](https://github.com/Eletrinho/DevStore): API Restful de um E-commerce com autenticação JWT
+- [**DevStore**](https://github.com/Eletrinho/DevStore): API Restful de um E-commerce com autenticação JWT documentado com Swagger.  
+🌐 https://devstore-ye6v.onrender.com/api/docs
 ---
 
 ![Eletrinho](https://github-readme-stats.vercel.app/api/top-langs/?username=eletrinho&hide=css,scss)
