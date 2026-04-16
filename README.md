@@ -1,10 +1,25 @@
-## 👋 Olá! Bem vindo ao meu perfil GitHub.
-### Me chamo Cauã, e estou aprendendo sobre o back-end e um pouco do front-end.
-### Em busca em ser um fullstack futuramente.
+[header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Cauã&textBg=false&section=header&animation=fadeIn)
 
-<div style="display: inline_block"><br>
-  <img align="center" widht="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" widht="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" widht="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" widht="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+Desenvolvedor focado em Back-end (Python/Django/Java) em transição para Fullstack. 
+Atualmente cursando Análise e Desenvolvimento de Sistemas (3/5).
+---
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
+🚀 Projetos
+- [**DevStore**](https://github.com/Eletrinho/DevStore): API Restful de um E-commerce com autenticação JWT
+---
+
+![Eletrinho](https://github-readme-stats.vercel.app/api/top-langs/?username=eletrinho&hide=css,scss)
+
+---
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-custodio/)
