@@ -1,7 +1,7 @@
 # Cauã
-
-Desenvolvedor focado em Back-end (Python/Django/Java) em transição para Fullstack. 
-Atualmente cursando Análise e Desenvolvimento de Sistemas (3/5).
+---
+### Desenvolvedor focado em Back-end (Python/Django/Java) em transição para Fullstack. 
+### Atualmente cursando Análise e Desenvolvimento de Sistemas (3/5).
 ---
 ## 🛠️ Tecnologias
 
